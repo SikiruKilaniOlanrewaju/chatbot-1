@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Show title and description.
-st.title("💬 Olajire Micheal idowu Chatbot")
+st.title("💬 Ayoola Ibrahim olaniran Chatbot")
 st.write(
     "This is a CHatbot for Week 10 "
         )
