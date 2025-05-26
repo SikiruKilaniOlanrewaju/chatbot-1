@@ -5,7 +5,7 @@ from openai import OpenAI
 st.title("💬 My Chatbot")
 st.write(
     "This is a CHatbot for Week 10 "
-    )
+        )
 
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
